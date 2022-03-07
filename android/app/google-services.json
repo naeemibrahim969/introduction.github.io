@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036491406987",
+    "project_id": "fir-brew-app-crew",
+    "storage_bucket": "fir-brew-app-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036491406987:android:8eb7d4e0875848f9591e8e",
+        "android_client_info": {
+          "package_name": "com.ui.uipractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036491406987-nulo339lrdj3mnc801hi8tbkn341h4sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsvPZf9N8isnx3F01k5fTe721iR36iULk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036491406987-nulo339lrdj3mnc801hi8tbkn341h4sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
