@@ -33,12 +33,12 @@ _i1.GetIt $initGetIt(_i1.GetIt get,
   gh.singleton<_i5.BottomNavigationViewModel>(_i5.BottomNavigationViewModel());
   gh.lazySingleton<_i6.BottomSheetService>(
       () => thirdPartyServices.bottomSheetService);
+  gh.lazySingleton<_i6.NavigationService>(
+          () => thirdPartyServices.navigationService);
   gh.lazySingleton<_i6.DialogService>(() => thirdPartyServices.dialogService);
   gh.singleton<_i7.HomeNavigationDrawerViewModel>(
       _i7.HomeNavigationDrawerViewModel());
   gh.singleton<_i8.MenuViewModel>(_i8.MenuViewModel());
-  gh.lazySingleton<_i6.NavigationService>(
-      () => thirdPartyServices.navigationService);
   gh.singleton<_i9.RegisterViewModel>(_i9.RegisterViewModel());
   gh.singleton<_i10.SignInViewModel>(_i10.SignInViewModel());
   gh.lazySingleton<_i6.SnackbarService>(
